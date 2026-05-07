@@ -1,0 +1,17 @@
+# Build / generator scripts (not needed for GitHub Pages)
+gen_portfolio.py
+fix_projects.py
+fix_resume_link.py
+
+# Old/draft portfolio files
+indhar_portfolio.html
+indhar_portfolio_fixed.html
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
